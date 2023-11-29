@@ -6,7 +6,15 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=woixioute21.readme)
 ![](http://antzuhl.cn:4000/get/@woixioute21.readme)
-![info](https://github-readme-stats.vercel.app/api?username=woixioute21&show_icons=true&count_private=true&hide=prs&theme=radical_repocard)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woixioute21&show_icons=true&theme=shadow_blue&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woixioute21\&layout=compact)
+
+<!---
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=woixioute21\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
 
 # linux卡片
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
@@ -22,4 +30,9 @@
 # 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+
+--->
+
+
+
 
