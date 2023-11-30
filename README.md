@@ -17,7 +17,8 @@
         <u><i>These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">github action</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </kbd>
 </div>
-<h2><img src="src/assert/laplus_wink.gif" alt="Hi" width="42" /> HELLO <img src="src/assert/laplus.gif" alt="Hi" width="42" /></h2>
+
+<h1><img src="src/assert/laplus_wink.gif" alt="Hi" width="42" /> HELLO <img src="src/assert/laplus.gif" alt="Hi" width="42" /></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woixioute21&show_icons=true&theme=shadow_blue&rank_icon=github)
 
