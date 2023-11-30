@@ -1,12 +1,23 @@
+<!---
 - 👋 Hi, I’m @woixioute21
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=woixioute21.readme)
 ![](http://antzuhl.cn:4000/get/@woixioute21.readme)
 
+<div>
+    <kbd align="center" valign="center">
+        <a href="https://github.com/Charmve/computer-vision-in-action">
+            <img align="right" src="https://komarev.com/ghpvc/?username=woixioute21&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+        </a>
+        <u><i>These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">github action</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </kbd>
+</div>
+<h2><img src="src/assert/laplus_wink.gif" alt="Hi" width="42" /> HELLO <img src="src/assert/laplus.gif" alt="Hi" width="42" /></h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woixioute21&show_icons=true&theme=shadow_blue&rank_icon=github)
 
